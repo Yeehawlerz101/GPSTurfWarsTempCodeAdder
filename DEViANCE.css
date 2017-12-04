@@ -1,9 +1,7 @@
 nav {
-  overflow: hidden;
-  background-color: #333;
+  font-family: 'Lobster', cursive;
+  color: white;
   position: fixed;
-  top: 0;
-  width: 100%;
 }
 body {
   padding-top: 4%;
@@ -24,7 +22,9 @@ margin-bottom: 1em;
 margin-left: 0;
 margin-right: 0;
 padding-left: 40px;}
-
+.main {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
 a:link {
   color: gray;
 text-decoration: underline;
@@ -35,23 +35,6 @@ a:visited {
 text-decoration: underline;
 cursor: auto;
 
-}
-nav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-nav a:link {
-  text-decoration: none;
-color: white;
-}
-nav, a:visited {
-  text-decoration: none;
-color: white;
 }
 h1, h2, h3, h4, h5, h6 {
 font-family: 'Lobster', cursive;
