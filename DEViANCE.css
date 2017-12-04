@@ -199,21 +199,24 @@ font-weight: bold;}
   clear: left;
 }
 .Button-Controls {
+
   background-color: white;
   opacity: .85;
   border-radius: 15px;
   text-decoration-color: black;
-  width: 65%;
-  height: 15%;
+  float: left;
+  width: 50%;
   padding-left: 1%;
   padding-right: 1%;
-  margin-left: .5%;
-  margin-right: .5%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 1%;
 }
 .Temp-Code-Send-Request {
   float: left;
 }
 .Donation {
+  padding-left: 10px;
 }
 .Temp-Code-Download-Request{
 float: left;
