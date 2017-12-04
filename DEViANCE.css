@@ -1,8 +1,4 @@
-nav {
-  font-family: 'Lobster', cursive;
-  color: white;
-  position: fixed;
-}
+
 body {
   padding-top: 4%;
   /* The image used */
@@ -174,6 +170,17 @@ font-weight: bold;}
 .Intro {
   color: white;
   text-shadow: black 1px 1px 1px;
+  font-family: 'Lobster', cursive;
+}
+.Intro a {
+  padding: 5px;
+  color: white;
+  text-shadow: black 1px 1px 1px;
+  font-family: 'Lobster', cursive;
+  text-decoration: none;
+}
+.Intro a:hover{
+  color: blue;
 }
 .Donation-Info {
   background-color: white;
