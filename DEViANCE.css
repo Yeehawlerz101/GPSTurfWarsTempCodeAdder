@@ -1,6 +1,6 @@
 
 body {
-  padding-top: 4%;
+  padding-top: 2%;
   /* The image used */
 background-image: url("gangster_painting-2560x1600.jpg");
 height: 500px;
@@ -211,12 +211,14 @@ font-weight: bold;}
   margin-left: 25%;
   margin-right: 25%;
   margin-top: 1%;
+  margin-bottom: 50px;
 }
 .Temp-Code-Send-Request {
   float: left;
+  padding-left: 12%;
 }
 .Donation {
-  padding-left: 10px;
+  padding-left: 35%;
 }
 .Temp-Code-Download-Request{
 float: left;
