@@ -33,10 +33,6 @@ Q: Why did you make this?
 
 A: I needed something to take my mind away from college exams and something that challenged me since I've never finished a project that required coding regularly.
 
-Q: What's your mob code?
-
-A: "DEViANCE" without the quotes. I'm pretty small but hopefully with this will let new players mob up faster to catch up with some of the older players.
-
 Q: What's the background image you're using?
 
 A: Go to the GitHub page for this project look up "gangster_painting-2560x1600.jpg" you'll probably find it pretty quick and credits to whoever made it also as I don't own it and will never claim to.
