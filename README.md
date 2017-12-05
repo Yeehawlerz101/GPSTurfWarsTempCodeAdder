@@ -2,6 +2,12 @@
 
 ## GPSTurfWarsTempCodeAdder
 ## Requirements
+###### Currently Only Android devices are tested that tis works on sorry :cry:.
+Tasker
+Asus File Manager
+DroidEdit (Text Editor)
+Aptoide
+In case either you cant find the suggested apps or if you dont have google play installed.
 ## Directions
 Have some sort of keyboard input automation app (Tasker/Hiromacro to name a few).
 Click on the "Send Request" button to send a request of what currnet temp codes there are available.
