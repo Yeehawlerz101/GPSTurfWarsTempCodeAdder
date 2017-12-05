@@ -100,13 +100,14 @@ font-weight: bold;}
   opacity: .85;
   border-radius: 15px;
   text-decoration-color: black;
-  width: 96.5%;
+  width: 55%;
   padding-right: 1%;
   padding-left: 1%;
   margin-right: 1%;
   margin-left: .5%;
   padding-bottom: .5%;
   margin-bottom: 1%;
+  float: left;
 }
 .Other-Information {
   background-color: white;
@@ -199,24 +200,22 @@ font-weight: bold;}
   margin-left: .5%;
   margin-right: .5%;
 }
-.float-clear {
+.float-clear1 {
+  float: none;
+  clear: left;
+}
+.float-clear2 {
   float: none;
   clear: left;
 }
 .Button-Controls {
-
-  background-color: white;
-  opacity: .85;
-  border-radius: 15px;
+  background-color: black;
+  opacity: .60%;
   text-decoration-color: black;
   float: left;
-  width: 50%;
-  padding-left: 1%;
-  padding-right: 1%;
-  margin-left: 25%;
-  margin-right: 25%;
+  width: 100%;
+  padding-left: 12.5%;
   margin-top: 1%;
-  margin-bottom: 50px;
 }
 .Temp-Code-Send-Request {
   float: left;
@@ -227,4 +226,18 @@ font-weight: bold;}
 }
 .Temp-Code-Download-Request{
 float: left;
+}
+.Requirements {
+  background-color: white;
+  opacity: .85;
+  border-radius: 15px;
+  text-decoration-color: black;
+  float: left;
+  width: 35%;
+  height: 51%;
+  padding-right: 1%;
+  padding-left: 1%;
+  margin-right: .5%;
+  margin-left: .5%;
+  margin-bottom: .5%;
 }
