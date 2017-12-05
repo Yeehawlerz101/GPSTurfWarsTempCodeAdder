@@ -1,8 +1,9 @@
 # <> with :heart: and made in Michigan, USA.:earth_americas:
 
 ## GPSTurfWarsTempCodeAdder
+A simple(r) and easy way to get temp codes from turfwarsuk.com
 ## Requirements
-###### Currently Only Android devices are tested that tis works on sorry :cry:.
+###### Currently Only Android devices are tested that tis works on sorry. :cry::iphone:
 Tasker
 Asus File Manager
 DroidEdit (Text Editor)
