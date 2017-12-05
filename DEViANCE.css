@@ -241,3 +241,24 @@ float: left;
   margin-left: .5%;
   margin-bottom: .5%;
 }
+.Requirements a {
+  font-family: 'Lobster', cursive;
+  color: black;
+  text-shadow: white 1px 1px 1px;
+  text-decoration: none;
+}
+.Requirements a:hover {
+  color: blue;
+}
+/*
+ ALOE8080		Nalfaria	
+GFC		GFC
+BGUNZ		BigGunz08
+BRAP 		Hypnotized_100
+WELL		BigAl
+ENACT944		ScarredDjango
+SPREE752		ScarredDjango
+MARINEMAN	Marineman
+HARLS868		touchofdeathhhh
+FLOWZ
+*/

@@ -65,7 +65,7 @@
         "api_key" => "ttxcPt83bTJO",
         "start_url" => "http://turfwarsuk.com/temp/",
         "start_template" => "main_template",
-        "start_value_override" => "{\"query\": \"San Francisco\"}",
+        "start_value_override" => "{\"API-Request\": \"Recived-From-Web\"}",
         "send_email" => "1"
       );
 
